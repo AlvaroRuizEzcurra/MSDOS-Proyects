@@ -1,0 +1,6 @@
+::Here is the code of the master program.
+
+::This code code will set general conditiones and call other functions.
+::Calling other functions implies opening other sub-programs because the nature of this coding language.
+::Therefore, there will be, at least, three different codes refered to The master, the melodic patern creator (MPC) and the compiler.
+
